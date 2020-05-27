@@ -133,6 +133,8 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("UserButt is Running\n"  
         f"-------------------------------- \n"
+		"I'M STILL HERE MY LORD, DON'T LEAVE ME\n"
+		"-------------------------------- \n"
          "⣼⣯⠄⣸⣠⣶⣶⣦⣾⠄⠄⠄⠄⡀⠄⢀⣿⣿⠄⠄⠄⢸⡇ \n"
          "⠿⠿⠶⠿⢿⣿⣿⣿⣿⣦⣤⣄⢀⡅⢠⣾⣛⡉⠄⠄⠄⠸⢀ \n"
          "⣴⣶⣶⡀⠄⠄⠙⢿⣿⣿⣿⣿⣿⣴⣿⣿⣿⢃⣤⣄⣀⣥⣿ \n"
